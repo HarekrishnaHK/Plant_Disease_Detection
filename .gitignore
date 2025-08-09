@@ -1,0 +1,5 @@
+__pycache__/
+plant/
+feedback.csv
+/plant-disease-recognition-dataset
+/plant_disease_cnn.h5
