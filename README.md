@@ -117,6 +117,6 @@ This project is licensed under the MIT License. Feel free to use and modify it.
 
 Here’s a preview of the Plant Disease Detection app in action:
 
-![App Screenshot](assets/app_preview.png)
+![App Screenshot](app_preview.png)
 
 ```
