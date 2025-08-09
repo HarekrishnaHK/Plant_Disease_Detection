@@ -4,7 +4,7 @@ ipykernel
 opendatasets
 tensorflow
 matplotlib
-opencv-python-headless
+opencv-python-headless==4.12.0.88
 seaborn
 numpy
 streamlit
