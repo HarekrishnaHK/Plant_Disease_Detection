@@ -1,5 +1,0 @@
-outs:
-- md5: 9d056f6bebc430ede8982eb14510e8e9
-  size: 39707680
-  hash: md5
-  path: plant_disease_cnn.h5
